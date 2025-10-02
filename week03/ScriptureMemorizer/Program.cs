@@ -1,3 +1,11 @@
+/*
+Author: Bryam Terrones
+EXCEEDING REQUIREMENTS:
+- Implemented Scripture Library: Loads multiple scriptures from file
+- Smart Word Selection: Only hides words that aren't already hidden
+- Random Scripture Selection: Chooses random scripture from library
+- Error Handling: Graceful handling of missing files
+*/
 using System;
 
 class Program
