@@ -1,0 +1,7 @@
+2275
+1,4,1
+SimpleGoal: Run a Marathon,Complete a full 26.2 mile marathon,1000,True
+EternalGoal:Read scriptures,Read scriptures for al least 10 minutes,100
+EternalGoal:Visit with missionarys,ministration,200
+ChecklistGoal:Attend temple,attend the temple weekly,50,500,10,2
+ChecklistGoal:Complete Homework,Finish all assignment on time,75,300,5,5
